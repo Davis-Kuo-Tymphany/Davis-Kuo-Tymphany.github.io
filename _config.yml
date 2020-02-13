@@ -1,0 +1,6 @@
+#Jekyll configuration
+name: Davis Kuo
+description: Test
+url: "https://davis-kuo-tymphany.github.io"
+markdown: kramdown
+highlighter: rouge
